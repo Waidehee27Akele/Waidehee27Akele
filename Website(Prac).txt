@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="collegewebsite.css">
+   <link rel="stylesheet" href="../all.css">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="author" content="Suraj Kupate">
+   <title>Shri Vile Parle Kelavani Mandals,IOT</title>
+</head>
+<body style="background-color: Salmon;">
+   <h1 id="Top of the page"></h1>
+   <nav class="navlist">
+      <ul>
+         <li><h4>TMC.</h4></li>
+         <li><a href="">Home</a></li>
+         <li><a href="">About</a></li>
+         <li><a href="">Course</a></li>
+         <li><a href="">Faculty</a></li>
+      </ul>
+   </nav>
+   <div class="main-box">
+      <h1>SHRI VILE PARLE KELAVANI MANDAL'S,IOT DHULE</h1>
+      <p>India's One Of The Best Engineering College</p>
+      <p>
+      <button>ENROLL NOW</button>
+   </div>
+   <br>
+   <br>
+
+   <font size="+2">
+        <font face="Helvetica"><u>WELCOME TO THE SVKM IOT DHULE</u></font><br><br>
+
+   <p style="background-color: #F0FFFF; ">
+                <font size="+1">The Department of Computer Engineering & Information Technology at the SVKM’s Institute
+                    of Technology, Dhule was established in the year 2017.<br>
+                    The Department has State of the art computing laboratories, equipped with the latest machines,
+                    software and are networked to the client machines throughout the department.<br> 
+                    The Department has a blend of experienced and young faculty members who also work as mentors to the
+                    equally diligent, hardworking and intelligent students.<br>
+                    We strive to impart basic knowledge of the vast area of Computers, which serves as the most apposite
+                    platform for students to pursue higher studies in their areas of interest.</font><br><br>
+            <p style="background-color: #F0FFFF;">Get the detail Information of COMPUTER DEPARTMENT.Kindly visit the Links</p>
+            <a href="https://www.svkm-iot.ac.in/computer-engineering/"><cite>Computer Engineering Department</cite></a>
+            </p>
+
+ <h2>
+           <font size="+5"> <center><u>HIGHLIGHTS</u></center></font>
+        </h2>
+        <header style="background-color: #F0FFFF;">
+            
+                <p style="text-align:left">
+                <ul type=disc>
+                    <li> Centrally air-conditioned class rooms.</li>
+                    <li> Affordable fee in premium Institute category</li>
+                    <li> Highly qualified staff</li>
+                    <li>All digital classrooms with world class layout & furniture
+                        Wi-Fi campus with high speed internet</li>
+                    <li>SVKM’s central support for industrial training and placement.</li>
+                </ul>
+                </p>
+                </h5>
+        </header>
+        <br><br>
+
+        <font face="castellar" size="=4"><b><u>ACTIVITIES at SVKM IOT,DHULE</u></b></font><br><br>
+        <header>
+            <div class="row">
+                <div class="column">
+                    <p>Cultural Activities</p>
+                    <img src="https://www.svkm-iot.ac.in/wp-content/uploads/2018/09/DSC_0307-min-1197x800.jpg" align="center" alt="Cultural Activities" style="width:27%">
+                </div>
+                <div class="column">
+                    <p>Social Activities</p>
+                    <img src="https://www.svkm-iot.ac.in/wp-content/uploads/2018/08/IMG_20180730_171000-min-1400x788.jpg" alt="Social Activities" style="width:27%">
+                </div>
+                <div class="column">
+                    <p>ACM PORTAL</p>
+                    <img src="data:image/jpeg;base64,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" alt="Extra ciriculums " style="width:27%">
+                </div>
+            </div>
+        </header>
+
+
+
+   <div class="container">
+      <h2>FACILITIES</h2>
+      <div class="row">
+         <div class="column">
+         <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqUw3_YbiWTsJX5V9MSURxjxfGH-obsgX4A&usqp=CAU" alt=""></a>
+         <a href="">CAMPUS</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/30552/2020/7/8/3.jpg" alt=""></a>
+            <a href="">CANTINE</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="https://pbs.twimg.com/media/COIqntAVAAANRD-.jpg" alt=""></a>
+            <a href="">LIBRARY</a>
+         </div>
+      </div>
+   </div>
+   </h6><a href="#Top of the page"> Go to top of the Page</a></h6>
+</body>
+</html>
