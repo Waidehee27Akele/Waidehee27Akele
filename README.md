@@ -18,7 +18,8 @@
 
 
 ### Glad to see you here!  
-Hey there this is Waidehee Kele here.
+Hey there..
+This is Waidehee Kele here.
 Learning and upgrading myself with new Technology!!
   
 
