@@ -18,9 +18,8 @@
 
 
 ### Glad to see you here!  
-Hey there this is waidehee kele here.
-And I am a student.
-hello bbye..!!!!  
+Hey there this is Waidehee Kele here.
+Learning and upgrading myself with new Technology!!
   
 
 <br/>  
@@ -33,13 +32,13 @@ hello bbye..!!!!
 A second year student from computer department.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Python And Java.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Do not hesitate to reach-out to me.
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: Sketching at times..!!   
 
 
 </td><td valign="top" width="50%">
